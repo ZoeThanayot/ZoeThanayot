@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoeThanayot
+- 👋 Hi, I’m zoe
 - 👀 I’m interested in AI,Cyber Security
 - 🌱 I’m currently learning M.6
 - 💞️ I’m looking to collaborate on !!
