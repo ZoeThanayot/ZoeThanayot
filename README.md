@@ -77,7 +77,7 @@
 
 <a href="https://www.instagram.com/zoe_t.n.y/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zoe_t.n.y-black?style=flat-square&logo=instagram"></a>
 
-<a href="thanayot.zoe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="thanayot.zoe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/thanayot.zoe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
