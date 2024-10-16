@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/None-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/thanayot-monthichachat-0b551730b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thanayot%20Monthichachat-blue?style=flat-square&logo=linkedin"></a>
 
