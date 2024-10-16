@@ -31,7 +31,7 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
+
 
 
 
@@ -40,9 +40,9 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 
 <hr>
+-->
 
-
-
+<!--
 <br/><br/>
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
@@ -56,7 +56,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 <br><br>
-
+-->
 
 
 <hr>
