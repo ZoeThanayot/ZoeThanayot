@@ -19,9 +19,9 @@
 
 
 
-- 💻 &nbsp; Python | C++ | C | MySQL
+- 💻 &nbsp; Python | C++ | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
 <!--
 
